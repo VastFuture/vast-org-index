@@ -162,6 +162,7 @@
 | [webconsulting-skills](https://github.com/VastFuture/webconsulting-skills) | 社区 | AI 增强的 TYPO3 项目开发 skills |
 | [qwen-cli-skill](https://github.com/VastFuture/qwen-cli-skill) | 社区 | Qwen CLI skill backup |
 | [qiaomu-opencli-skills](https://github.com/VastFuture/qiaomu-opencli-skills) | 乔木 | OpenCLI 社交/内容平台 skills |
+| [agy-cli-skill](https://github.com/VastFuture/agy-cli-skill) | fenghaolin | Orchestrate Google Antigravity CLI for parallel task execution, multi-model routing
 
 ---
 
