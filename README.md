@@ -118,6 +118,7 @@
 | [skills-3](https://github.com/VastFuture/skills-3) | 通用 | Original and practical skills for AI builders |
 | [skills-4](https://github.com/VastFuture/skills-4) | 公开 | Agent Skills 公开仓库 |
 | [best-skills](https://github.com/VastFuture/best-skills) | 通用 | 通用高质量 Skills 合集 🔥 |
+| [opencode-model-fallback](https://github.com/VastFuture/opencode-model-fallback) | OpenCode插件 | Automatic model fallback for OpenCode — zero-downtime switching on rate limits ⭐NEW |
 | [Claude-Skills](https://github.com/VastFuture/Claude-Skills) | 精选 | 245 个 Claude Code skills & agent plugins |
 | [yan-skills](https://github.com/VastFuture/yan-skills) | 通用 | Yan 的 Agent Skills — Google Trends SEO、autopilot 等 |
 | [min-skill](https://github.com/VastFuture/min-skill) | 通用 | minli-skill 合集（explain-video、wechat 等） |
