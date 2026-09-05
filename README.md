@@ -558,6 +558,7 @@
 | [codingBook](https://github.com/VastFuture/codingBook) | 计算机学习书籍 |
 | [harness-books](https://github.com/VastFuture/harness-books) | Harness 相关书籍 |
 | [ai-native-hiring-guide](https://github.com/VastFuture/ai-native-hiring-guide) | AI-Native 工程师招聘手册 |
+| [game-launch-boost](https://github.com/VastFuture/game-launch-boost) | Next.js + MDX + Cloudflare Pages 游戏网站模板，支持多语言/深色主题/批量MDX生成 |
 | [agent-skills-2](https://github.com/VastFuture/agent-skills-2) | — |
 | [agent-skills-2](https://github.com/VastFuture/agent-skills-2) | — |
 | [agent-skills-2](https://github.com/VastFuture/agent-skills-2) | — |
@@ -619,11 +620,11 @@
 | Business & Enterprise | 25 |
 | HR & Recruitment | 9 |
 | Auth, Social & Messaging | 13 |
-| DevOps & Infrastructure | 75 |
-| **总计** | **500** |
+| DevOps & Infrastructure | 76 |
+| **总计** | **501** |
 
 ---
 
-> 📅 最后更新：2026-08-26
+> 📅 最后更新：2026-09-05
 > 🏷️ Organization: [github.com/VastFuture](https://github.com/VastFuture)
 > 📊 数据来源：GitHub API `GET /orgs/VastFuture/repos`
